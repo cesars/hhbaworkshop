@@ -1,4 +1,7 @@
-hhbaworkshop
-============
+hhbaworkshop : Hack/Hackers Buenos Aires / Interactive News Workshop 
+====================================================================
 
-Hack/Hackers Buenos Aires / Interactive News Workshop 
+
+
+
+
